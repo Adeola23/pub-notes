@@ -164,8 +164,7 @@ nav.navigation a.button {
 @media (max-width: 700px) {
   nav.navigation {
     padding: 20px 10px 0 0;
-    background: rgb(234, 208, 208);
-    background: rgba(197, 182, 182, 0.9);
+    background: #faf2eb;
     margin: 0 auto;
     text-align: right;
     z-index: 100;
@@ -377,6 +376,7 @@ nav.navigation a.button {
   #single {
     padding: 0 18px;
     margin: 20px auto 0 auto;
+    max-width: 700px;
   }
   #single .title {
     font-size: 24px;
