@@ -1,4 +1,4 @@
-baseURL = 'https://adeola23.github.io/pub-notes/'
+baseURL = 'https://adeola23.github.io/pub-notes'
 languageCode = 'en-us'
 title = 'Adeola Abiola'
 theme = 'hugo-theme-mini'
