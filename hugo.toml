@@ -1,0 +1,42 @@
+baseURL = 'https://adeola23.github.io/pub-notes/'
+languageCode = 'en-us'
+title = 'Adeola Abiola'
+theme = 'hugo-theme-mini'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+paginate = 5
+googleAnalytics = "your-google-analytics-id"
+disqusShortname = "your-disqus-shortname"
+
+[permalinks]
+posts = "/posts/:title/"
+
+[markup.highlight]
+guessSyntax = true
+style = "emacs"
+
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 2
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[social]
+github = "https://github.com/Adeola23"
+twitter = "your-twitter-link"
+stackoverflow = "your-stackoverflow-link"
+
+[params]
+author = "Adeola"
+bio = "I am a software engineer from Nigeria currently residing in London. This is a public note or blog where I share my learnings and explore my curiosity."
+description = "My Blog"
+enableRSS = true
+enableComments = true
+enableGoogleAnalytics = true
+showToc = true
+showPowerBy = true
+math = false
+hiddenPostSummaryInHomePage = false
+copyright = ""
