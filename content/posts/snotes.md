@@ -1,7 +1,6 @@
 +++
 title = 'Snotes'
 date = 2024-04-03T16:20:25+01:00
-spotify = "https://open.spotify.com/embed/track/2ayW5py654ARpvpj9HLCov?utm_source=generator"
 +++
 
 >Focus is a prerequisite for great work. 
@@ -29,4 +28,5 @@ Optimizing requires running comparisons and weighing features to arrive at a dec
 >Reduce friction or enable digitisation
 
 >It baffles me that people think making really, really brilliant, stupendous, worldshocking pieces of work is a particular challenge. It's mainly a battle of endurance. The longer you try and deshit something, the less shit it is. This is called "revision", and it is one hundred percent effective, and people still don't do it.
+
 
