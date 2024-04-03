@@ -22,3 +22,5 @@ Optimizing requires running comparisons and weighing features to arrive at a dec
 >When something feels strange, it’s usually a signal that there are holes in my understanding, maybe worth investigating.
 
 >Take that opportunity to set expectations properly and measure success quantiatively.
+
+>We had picked the right project. It was big enough to be useful, small enough to be possible. Start with a small piece; fulfill one goal at a time, on time. Do it with all things in life. You can’t jump to the end game right away, in computers, politics, love or any other aspect of life - Bloomberg
