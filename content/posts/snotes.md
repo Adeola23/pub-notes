@@ -24,3 +24,7 @@ Optimizing requires running comparisons and weighing features to arrive at a dec
 >Take that opportunity to set expectations properly and measure success quantiatively.
 
 >We had picked the right project. It was big enough to be useful, small enough to be possible. Start with a small piece; fulfill one goal at a time, on time. Do it with all things in life. You can’t jump to the end game right away, in computers, politics, love or any other aspect of life - Bloomberg
+
+>Reduce friction or enable digitisation
+
+>It baffles me that people think making really, really brilliant, stupendous, worldshocking pieces of work is a particular challenge. It's mainly a battle of endurance. The longer you try and deshit something, the less shit it is. This is called "revision", and it is one hundred percent effective, and people still don't do it.
