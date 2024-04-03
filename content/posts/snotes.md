@@ -1,6 +1,7 @@
 +++
 title = 'Snotes'
 date = 2024-04-03T16:20:25+01:00
+spotify = "https://open.spotify.com/embed/track/2ayW5py654ARpvpj9HLCov?utm_source=generator"
 +++
 
 >Focus is a prerequisite for great work. 
